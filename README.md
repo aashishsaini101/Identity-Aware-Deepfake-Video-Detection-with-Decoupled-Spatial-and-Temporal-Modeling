@@ -1,4 +1,6 @@
-# Spatiotemporal Deepfake Detection via Decoupled Spatial-Temporal Transformers
+# Identity-Aware Deepfake Video Detection with Decoupled
+Spatial and Temporal Modeling: A Controlled Analysis Un
+der Source-Aware Evaluation
  
 <p align="center">
   <img src="https://img.shields.io/badge/PyTorch-2.x-ee4c2c?logo=pytorch&logoColor=white" alt="PyTorch"/>
